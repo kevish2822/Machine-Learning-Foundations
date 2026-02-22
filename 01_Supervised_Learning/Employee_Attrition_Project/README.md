@@ -134,8 +134,6 @@ Important features included:
 - Overtime
 - Monthly Income
 - Years at Company
-- Job Role
-- Work environment-related attributes
 
 This analysis provides interpretable insights into factors contributing to
 employee turnover.
