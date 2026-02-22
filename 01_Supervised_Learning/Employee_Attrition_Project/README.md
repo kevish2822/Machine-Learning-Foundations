@@ -156,7 +156,6 @@ employee turnover.
 
 - `employee_attrition.ipynb` → Complete workflow and experiments
 - `model_comparison.csv` → Model performance comparison
-- `feature_importance.png` → Random Forest feature importance visualization
 - `HR-Employee-Attrition.csv` → Dataset used for this project
 ---
 
