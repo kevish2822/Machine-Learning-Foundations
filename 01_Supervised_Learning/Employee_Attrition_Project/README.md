@@ -80,7 +80,7 @@ ability to detect employee attrition.
 - Class weighting and threshold tuning applied
 - Achieved improved recall after probability adjustment
 
-### Decision Tree (Pre-Pruned)
+### Decision Tree (Post-Pruned)
 
 - Controlled model complexity using pruning parameters
 - Demonstrated underfitting compared to ensemble methods
